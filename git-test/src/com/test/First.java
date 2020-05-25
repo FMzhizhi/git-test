@@ -11,6 +11,7 @@ public class First {
 //        get();
         get();
         //调用静态方法
+         System.out.println("Hello Git");
 
     }
     public static void get(){
