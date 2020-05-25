@@ -9,6 +9,7 @@ public class First {
         System.out.println("Hello Git");
         get();
 //        get();
+        //调用静态方法
 
     }
     public static void get(){
