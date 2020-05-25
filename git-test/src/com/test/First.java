@@ -10,6 +10,7 @@ public class First {
         get();
 //        get();
         //调用静态方法
+        System.out.println("hello world");
 
     }
     public static void get(){
