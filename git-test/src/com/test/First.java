@@ -13,6 +13,7 @@ public class First {
         get();
          System.out.println("Hello Git");
         System.out.println("hello world");
+        System.out.println("hello world");
 
     }
     public static void get(){
