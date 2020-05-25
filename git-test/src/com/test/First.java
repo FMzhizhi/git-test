@@ -9,6 +9,7 @@ public class First {
         System.out.println("Hello Git");
         get();
 //        get();
+        get();
 
     }
     public static void get(){
